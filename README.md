@@ -35,8 +35,8 @@ My home operating environment :
                     [![GitHub followers](https://img.shields.io/github/followers/techie2000.svg?style=social&label=Follow)](https://github.com/techie2000?tab=followers)
                     [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=techie2000&row=1&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
                     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=techie2000&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-                    [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techie2000&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-                    [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=techie2000&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+                    [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=techie2000&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)<br> 
+                    [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techie2000&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)<br> 
                     [![Sparkline](https://stars.medv.io/techie2000/badges.svg)](https://stars.medv.io/techie2000/badges)
 
 - AI/Bots : ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?logo=amazon%20alexa&logoColor=white&style=flat)
@@ -65,6 +65,8 @@ My home operating environment :
           :iphone:
 - Streaming : ![LG Badge](https://img.shields.io/badge/LG%20C1%2055%22-A50034?logo=lg&logoColor=fff&style=flatbadge&style=flat)
               ![Amazon Fire TV Badge](https://img.shields.io/badge/Amazon%20Fire%20TV-FC4C02?logo=amazonfiretv&logoColor=fff&style=flat)
+              ![Samsung Badge](https://img.shields.io/badge/Samsung-HW--Q700A%20Soundbar-1428A0?logo=samsung&logoColor=fff&style=flat)
+              ![Dolby Badge](https://img.shields.io/badge/Dolby-Atmos|DTS%3AX-000?list=|&logo=dolby&logoColor=fff&style=flat)
   - ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white&style=flat)
     ![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?logo=Apple%20TV&logoColor=white&style=flat)
     ![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white&style=flat)
