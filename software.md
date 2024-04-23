@@ -1,5 +1,14 @@
 Some of my recommended software/installs.
 
+# Dev
+
+| Preference | Software                         | Linux | Mac | Windows | Notes |
+| :--------: | :-----------------------------   | :---: | :-: | :-----: | :----- |
+| 🥇         | [Flox](https://flox.dev/)       | ✅     | ✅   | ✅       | a virtual environment and package manager all in one. |
+| 🥈         |                                  |       |     |         | | 
+| 🥉         |                                  |       |     |         | | 
+
+
 # Shell
 | Preference | Software                         | Linux | Mac | Windows | Notes  |
 | :--------: | :-----------------------------   | :---: | :-: | :-----: | :----- |
@@ -12,7 +21,6 @@ Some of my recommended software/installs.
 
 | Preference | Software                         | Linux | Mac | Windows | Notes |
 | :--------: | :-----------------------------   | :---: | :-: | :-----: | :----- |
-| 🥇         | [Termius](https://termius.com/)  | ✅     | ✅   | ✅       | Can make use of [Mosh](#Shell) Shell|
+| 🥇         | [Termius](https://termius.com/)  | ✅     | ✅   | ✅       | Can make use of [Mosh](#Shell) Shell |
 | 🥈         |                                  |       |     |         | | 
 | 🥉         |                                  |       |     |         | | 
-
