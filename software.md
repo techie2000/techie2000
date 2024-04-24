@@ -18,6 +18,15 @@ Some of my recommended software/installs.
 | 🥉         |                                  |       |     |         | | 
 
 
+# GIT
+
+| Preference | Software                         | Linux | Mac | Windows | Notes  |
+| :--------: | :-----------------------------   | :---: | :-: | :-----: | :----- |
+| 🥇         | [gptcommit](https://github.com/zurawiki/gptcommit) | ✅     | ✅   | ✅       | A git prepare-commit-msg hook for authoring commit messages with GPT-3. With this tool, you can easily generate clear, comprehensive and descriptive commit messages. |
+| 🥈         |                                  |       |     |         |        | 
+| 🥉         |                                  |       |     |         |        | 
+
+
 # Graphics
 
 | Preference | Software                         | Linux | Mac | Windows | Notes  |
