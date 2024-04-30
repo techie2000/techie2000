@@ -63,7 +63,16 @@ Some of my recommended software/installs.
 | 🥉         |                                  |       |     |         | | 
 
 
-# (System) Utilities
+# Command Line (JSON/YAML) Utilities
+
+| Preference | Software                         | Linux | Mac | Windows | Notes  |
+| :--------: | :-----------------------------   | :---: | :-: | :-----: | :----- |
+| 🥇         | [jless](https://jless.io/)        | ✅     | ✅   | ☑️ WSL   | Command-line JSON viewer designed for reading, exploring, and searching through JSON data. |
+| 🥈         |                                  |       |     |         |        | 
+| 🥉         |                                  |       |     |         |        | 
+
+
+# Command Line (System) Utilities
 
 | Preference | Software                         | Linux | Mac | Windows | Notes  |
 | :--------: | :-----------------------------   | :---: | :-: | :-----: | :----- |
