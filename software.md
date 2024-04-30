@@ -63,4 +63,13 @@ Some of my recommended software/installs.
 | 🥉         |                                  |       |     |         | | 
 
 
+# (System) Utilities
+
+| Preference | Software                         | Linux | Mac | Windows | Notes  |
+| :--------: | :-----------------------------   | :---: | :-: | :-----: | :----- |
+| 🥇         | [Neofetch](https://github.com/dylanaraps/neofetch) | ✅     | ✅   | ✅       | Fetch system information and display it in a pretty way. (Shows Proxmox distinct from Debian). |
+| 🥈         | [Fast](https://github.com/fastfetch-cli/fastfetch) | ✅     | ✅   | ✅       | Fetch system information and display it in a pretty way. Faster than NeoFetch (but doesn't show Proxmox distinct from Debian). | 
+| 🥉         |                                  |       |     |         |        | 
+
+
 Icons by <a href="https://icons8.com">Icons8</a>
