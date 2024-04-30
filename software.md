@@ -4,7 +4,7 @@ Some of my recommended software/installs.
 
 | Preference | Software                         | Linux | Mac | Windows | Notes |
 | :--------: | :-----------------------------   | :---: | :-: | :-----: | :----- |
-| 🥇         | [f.lux](https://flox.dev/) <img width="16" height="16" src="https://img.icons8.com/?size=48&id=KROH8sFCmj1L&format=png" alt="f.lux app icon"/> | ⛔     | ✅   | ✅       | Makes your computer screen look like the ambient lighting in your room, whether it’s daytime or nighttime. |
+| 🥇         | [f.lux](https://justgetflux.com/) <img width="16" height="16" src="https://img.icons8.com/?size=48&id=KROH8sFCmj1L&format=png" alt="f.lux app icon"/> | ⛔     | ✅   | ✅       | Makes your computer screen look like the ambient lighting in your room, whether it’s daytime or nighttime. |
 | 🥈         |                                  |       |     |         | | 
 | 🥉         |                                  |       |     |         | | 
 
@@ -40,7 +40,7 @@ Some of my recommended software/installs.
 
 | Preference | Software                         | Linux | Mac | Windows | Notes  |
 | :--------: | :-----------------------------   | :---: | :-: | :-----: | :----- |
-| 🥇         | [Rust](https://www.rust-lang.org/) <img width="16" height="16" src="https://img.icons8.com/color/16/rust-programming-language.png" alt="rust-programming-language"/>  | ✅     | ✅   | ✅       | Pickup from where you eft off in dropped sessions |
+| 🥇         | [Rust](https://www.rust-lang.org/) <img width="16" height="16" src="https://img.icons8.com/nolan/16/rust-programming-language--v1.png" alt="rust-programming-language--v1"/> | ✅     | ✅   | ✅       | Pickup from where you eft off in dropped sessions |
 | 🥈         |                                  |       |     |         |        | 
 | 🥉         |                                  |       |     |         |        | 
 
@@ -77,7 +77,7 @@ Some of my recommended software/installs.
 | Preference | Software                         | Linux | Mac | Windows | Notes  |
 | :--------: | :-----------------------------   | :---: | :-: | :-----: | :----- |
 | 🥇         | [Neofetch](https://github.com/dylanaraps/neofetch) | ✅     | ✅   | ✅       | Fetch system information and display it in a pretty way. (Shows Proxmox distinct from Debian). |
-| 🥈         | [Fast](https://github.com/fastfetch-cli/fastfetch) | ✅     | ✅   | ✅       | Fetch system information and display it in a pretty way. Faster than NeoFetch (but doesn't show Proxmox distinct from Debian). | 
+| 🥈         | [FastFetch](https://github.com/fastfetch-cli/fastfetch) | ✅     | ✅   | ✅       | Fetch system information and display it in a pretty way. Faster than NeoFetch (but doesn't show Proxmox distinct from Debian). | 
 | 🥉         |                                  |       |     |         |        | 
 
 
