@@ -115,6 +115,8 @@ My work operating envornment :
            ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white&style=flat)
            ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white&style=flat)
 
+[![An image of @techie2000's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/techie2000)](https://holopin.io/@techie2000)
+
 <!--
 **techie2000/techie2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
